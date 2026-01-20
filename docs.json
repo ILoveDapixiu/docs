@@ -13,6 +13,13 @@
       {
         "group": "test group",
         "pages": [
+          {
+            "group": "sub group1",
+            "pages": [
+              "test-group/sub-group1/2"
+            ]
+          },
+          "test-group/untitled-page",
           "test-group/test"
         ]
       }
